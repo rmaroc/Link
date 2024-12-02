@@ -7,7 +7,7 @@ export default defineAppConfig({
   mastodon: '/',
   blog: 'https://rmaroc.com',
   description: 'A Secure Link Shortener.',
-  image: 'https://sink.cool/banner.png',
+  image: '/banner.png',
   previewTTL: 24 * 3600, // 24h
   slugRegex: /^[a-z0-9]+(?:-[a-z0-9]+)*$/i,
   reserveSlug: [
