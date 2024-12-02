@@ -14,9 +14,9 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
       >{{ title }}</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://html.zone"
+        href="https://rmaroc.com"
         target="_blank"
-        title="HTML.ZONE"
+        title="RMAROC"
       >
         &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
       </a>
